@@ -35,10 +35,10 @@ Paste token(get token on github👇)
 pkg upgrade
 
 pkg install python
-Atau
+or
 pkg install python2
 
-Lanjut 
+
 cd storage
 
 git clone https://github.com/im-hanzou/getgrass.git
@@ -47,18 +47,8 @@ cd getgrass
 
 pip install -r requirements.txt
 
--Edit file proxy-
-
-1.nano proxy_list.txt 
-
-Copas proxy 
-save
-
-https://pst.innomi.net/paste/tucxgvtupm3mvdquruaevzrvt7bgpuvx (tmpek)
-
-ctrl x 
-Y
 Enter
 
 python run.py
+
 paste user id grass
