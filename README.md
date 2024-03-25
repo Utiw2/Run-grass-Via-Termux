@@ -41,7 +41,7 @@ pkg install python2
 
 cd storage
 
-git clone https://github.com/Utiw2/Run-grass-Via-Termux.git
+git clone https://github.com/Utiw2/grassTermux.git
 
 cd getgrass
 
