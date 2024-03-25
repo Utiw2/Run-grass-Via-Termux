@@ -52,3 +52,7 @@ Enter
 python run.py
 
 paste user id grass
+
+search user id on kiwi/misses browser👇
+
+https://github.com/Utiw2/User-id-grass/blob/d188e86eaf0c29fd5af4cd0c3e036bb1b44a698f/README.md
